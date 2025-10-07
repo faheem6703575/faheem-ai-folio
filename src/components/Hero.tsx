@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { ArrowDown, Github, Linkedin, Mail } from "lucide-react";
+import { ArrowDown, Github, Linkedin, Mail, Download } from "lucide-react";
 
 const Hero = () => {
   const scrollToContact = () => {
@@ -30,6 +30,17 @@ const Hero = () => {
             className="bg-primary hover:bg-primary/90 text-primary-foreground glow-effect transition-all duration-300 hover:scale-105"
           >
             Get In Touch
+          </Button>
+          <Button 
+            variant="outline" 
+            size="lg"
+            className="border-primary/50 hover:bg-primary/10 transition-all duration-300"
+            asChild
+          >
+            <a href="/Faheem_Akram_Resume.pdf" download>
+              <Download className="mr-2 h-5 w-5" />
+              Download Resume
+            </a>
           </Button>
           <Button 
             variant="outline" 
