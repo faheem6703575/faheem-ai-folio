@@ -26,12 +26,12 @@ const socialLinks = [
   {
     icon: Github,
     label: "GitHub",
-    href: "https://github.com/faheemakram",
+    href: "https://github.com/faheem6703575",
   },
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com/in/faheemakram",
+    href: "https://www.linkedin.com/in/faheemakraam/",
   },
 ];
 

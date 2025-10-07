@@ -37,7 +37,7 @@ const Hero = () => {
             className="border-primary/50 hover:bg-primary/10 transition-all duration-300"
             asChild
           >
-            <a href="https://github.com/faheemakram" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/faheem6703575" target="_blank" rel="noopener noreferrer">
               <Github className="mr-2 h-5 w-5" />
               GitHub
             </a>
@@ -52,7 +52,7 @@ const Hero = () => {
             <Mail className="h-6 w-6" />
           </a>
           <a 
-            href="https://linkedin.com/in/faheemakram" 
+            href="https://www.linkedin.com/in/faheemakraam/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
@@ -60,7 +60,7 @@ const Hero = () => {
             <Linkedin className="h-6 w-6" />
           </a>
           <a 
-            href="https://github.com/faheemakram" 
+            href="https://github.com/faheem6703575" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
